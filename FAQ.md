@@ -1,7 +1,10 @@
 # FAQ
 
 ## What is ip-info?
-IP address geolocation and ISP lookup
+Ip Info
 
 ## Dependencies?
 Python stdlib only.
+
+## Author
+Jose Zuma
